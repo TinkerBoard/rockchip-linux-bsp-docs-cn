@@ -186,6 +186,8 @@
 │   │   ├── Rockchip_Developer_Guide_Debian_Docker_CN.pdf
 │   │   ├── Rockchip_Developer_Guide_Linux_Docker_Deploy_CN.pdf
 │   │   └── Rockchip_User_Guide_SDK_Docker_CN.pdf
+│   ├── DPDK
+│   │   └── Rockchip_Developer_Guide_Linux_DPDK_CN.pdf
 │   ├── Graphics
 │   │   ├── Rockchip_Developer_Guide_Buildroot_Weston_CN.pdf
 │   │   └── Rockchip_Developer_Guide_Linux_Graphics_CN.pdf
@@ -223,4 +225,4 @@
 │   └── Rockchip_User_Guide_SDK_Application_And_Synchronization_CN.pdf
 └── Rockchip_Developer_Guide_Linux_Software_CN.pdf
 
-68 directories, 156 files
+69 directories, 157 files
